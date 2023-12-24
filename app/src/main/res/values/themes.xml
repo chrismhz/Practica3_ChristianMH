@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Practica3_ChristianMH" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#db3030</item>
+    </style>
+
+    <style name="Theme.Practica3_ChristianMH" parent="Base.Theme.Practica3_ChristianMH" />
+</resources>
